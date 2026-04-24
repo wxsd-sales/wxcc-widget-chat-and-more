@@ -181,6 +181,14 @@
               style="vertical-align: middle; margin-right: 0.5rem;"
             />Show self view
           </a>
+          <hr class="dropdown-divider" />
+          <a
+            id="invite"
+            class="dropdown-item"
+            style="display:flex; align-items:center; cursor:pointer;"
+          >
+            Invite
+          </a>
         </div>
       </div>
     </div>
