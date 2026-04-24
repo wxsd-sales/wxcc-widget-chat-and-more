@@ -78,7 +78,7 @@
         title="Unmute"
         type="button"
         aria-label="unmute audio"
-        style="display:none; ${ke}"
+        style="${ke} display:none;"
       >
         <img src=${me()} />
       </button>
@@ -99,7 +99,7 @@
         title="Start Video"
         type="button"
         aria-label="unmute video"
-        style="display:none; ${ke}"
+        style="${ke} display:none;"
       >
         <img src=${Ee()} />
       </button>
@@ -120,7 +120,7 @@
         title="Stop Share"
         type="button"
         aria-label="stop screen share"
-        style="display:none; ${Oe}"
+        style="${Oe} display:none;"
       >
         <img src=${_e()} />
       </button>
@@ -142,7 +142,7 @@
         title="Stop Transcription"
         type="button"
         aria-label="stop transcription"
-        style="display:none; ${Oe}"
+        style="${Oe} display:none;"
       >
         <img src=${Me()} />
       </button>
